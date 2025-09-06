@@ -58,15 +58,4 @@ The dataset used in this project is sourced from **Kaggle**.
 
 ---
 
-## 📂 Repository Structure  
-
-📦 ITC-Hotels-Analytics
- ┣ 📊 Dashboards (Screenshots of Reports)
- ┣ 📁 Data
- ┃ ┣ 📄 dim_hotels.csv
- ┃ ┣ 📄 fact_bookings.csv
- ┃ ┣ 📄 fact_aggregated_bookings.csv
- ┃ ┣ 📄 dim_date.csv
- ┃ ┗ 📄 dim_rooms.csv
- ┣ 📄 ITC_Hotels.pbix
  ┗ 📄 README.md
