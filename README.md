@@ -22,6 +22,7 @@ The dataset used in this project is sourced from **Kaggle**.
 ---
 
 ## 📊 Dashboard Pages  
+👉 **Live Power BI Dashboard**: [View Here](https://app.powerbi.com/groups/me/reports/5642058a-097c-4c3e-af15-1bca72ea5ab1/1f37afe53b6862c4b733?experience=power-bi)  
 
 ### 1️⃣ Financial Overview & Revenue Performance  
 - **KPIs:** ADR, MOM Growth %, WOW Growth %, RevPAR, Total Revenue  
